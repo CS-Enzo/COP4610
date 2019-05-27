@@ -11,11 +11,11 @@
 
  I Certify that this program code has been written by me
  and no part of it has been taken from any sources.
+*/
 
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/kernel.h>
-*/
 
 /* This function is called when the module is loaded. */
 int simple_init(void)
