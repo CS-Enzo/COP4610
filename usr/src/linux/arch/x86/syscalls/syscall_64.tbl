@@ -1,4 +1,15 @@
 
+/*
+ COP4610 – Principles of Operating Systems – Summer C 2019
+ Prof. Jose F. Osorio
+ Student Name: Enzo Mendoza 2923725
+ Project: Customizing Linux Kernel
+ Specs:   Adding Static System Call
+ Due Date: 06/10/2019 by 11:55pm
+ Module Name: syscall_64.tbl
+ I Certify that this program code has been written by me
+ and no part of it has been taken from any sources.
+*/
 
 #
 # 64-bit system call numbers and entry vectors
